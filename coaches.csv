@@ -1,715 +1,208 @@
-﻿Coach,Tm,G,W,L,T,Minority,Fired,Interim,Season,Remark
-Bill Cowher,PIT,16,11,5,0,0,0,0,2005,Super Bowl Champions
-Tony Dungy,IND,16,12,4,0,1,0,0,2006,Super Bowl Champions
-Tom Coughlin,NYG,16,10,6,0,0,0,0,2007,Super Bowl Champions
-Mike Tomlin,PIT,16,12,4,0,1,0,0,2008,Super Bowl Champions
-Sean Payton,NOR,16,13,3,0,0,0,0,2009,Super Bowl Champions
-Mike McCarthy,GNB,16,10,6,0,0,0,0,2010,Super Bowl Champions
-Tom Coughlin,NYG,16,9,7,0,0,0,0,2011,Super Bowl Champions
-John Harbaugh,BAL,16,10,6,0,0,0,0,2012,Super Bowl Champions
-Pete Carroll,SEA,16,13,3,0,0,0,0,2013,Super Bowl Champions
-Bill Belichick,NWE,16,12,4,0,0,0,0,2014,Super Bowl Champions
-Gary Kubiak,DEN,16,12,4,0,0,0,0,2015,Super Bowl Champions
-Bill Belichick,NWE,16,14,2,0,0,0,0,2016,Super Bowl Champions
-Doug Pederson,PHI,16,13,3,0,0,0,0,2017,Super Bowl Champions
-Bill Belichick,NWE,16,11,5,0,0,0,0,2018,Super Bowl Champions
-Andy Reid,KAN,16,12,4,0,0,0,0,2019,Super Bowl Champions
-Bruce Arians,TAM,16,11,5,0,0,0,0,2020,Super Bowl Champions
-Sean McVay,LAR,17,12,5,0,0,0,0,2021,Super Bowl Champions
-Andy Reid,KAN,17,14,3,0,0,0,0,2022,Super Bowl Champions
-Andy Reid,KAN,17,11,6,0,0,0,0,2023,Super Bowl Champions
-Nick Sirianni,PHI,17,14,3,0,0,0,0,2024,Super Bowl Champions
-Steve Spagnuolo,NYG,4,1,3,0,0,2,1,2017,Started 12/04
-Jon Gruden,LVR,5,3,2,0,0,1,0,2021,Resigned after Week 5
-Mike Mularkey,TEN,9,2,7,0,0,2,1,2015,Replaced Ken Whisenhunt after Week 8
-Dan Campbell,MIA,12,5,7,0,0,2,1,2015,Replaced Joe Philbin after Week 4
-Anthony Lynn,BUF,1,0,1,0,1,2,1,2016,Promoted to Head Coach after Week 16
-John Fassel,LAR,3,0,3,0,0,2,1,2016,Promoted to Head Coach after Week 14
-Mike Holmgren,SEA,16,13,3,0,0,0,0,2005,NFC Champions
-Lovie Smith,CHI,16,13,3,0,1,0,0,2006,NFC Champions
-Ken Whisenhunt,ARI,16,9,7,0,0,0,0,2008,NFC Champions
-Jim Harbaugh,SFO,16,11,4,1,0,0,0,2012,NFC Champions
-Pete Carroll,SEA,16,12,4,0,0,0,0,2014,NFC Champions
-Ron Rivera,CAR,16,15,1,0,1,0,0,2015,NFC Champions
-Dan Quinn,ATL,16,11,5,0,0,0,0,2016,NFC Champions
-Sean McVay,LAR,16,13,3,0,0,0,0,2018,NFC Champions
-Kyle Shanahan,SFO,16,13,3,0,0,0,0,2019,NFC Champions
-Nick Sirianni,PHI,17,14,3,0,0,0,0,2022,NFC Champions
-Kyle Shanahan,SFO,17,12,5,0,0,0,0,2023,NFC Champions
-Chuck Pagano,IND,16,11,5,0,0,0,0,2012,Missed 12 games due to cancer treatments
-Pat Shurmur,PHI,1,1,0,0,0,2,1,2015,Interim head coach for Week 17
-Thomas Brown,CHI,5,1,4,0,0,2,1,2024,interim HC after week 13
-Perry Fewell,CAR,4,0,4,0,0,2,1,2019,Interim coach as of Week 13
-Jeff Saturday,IND,8,1,7,0,0,2,1,2022,Interim coach after week 9
-Antonio Pierce,LVR,9,5,4,0,1,0,1,2023,Interim coach after week 8
-Rich Bisaccia,LVR,12,7,5,0,0,2,1,2021,Interim coach after Week 6
-Bill Callahan,WAS,11,3,8,0,0,2,1,2019,Interim coach after Week 5
-Steve Wilks,CAR,12,6,6,0,1,2,1,2022,Interim coach after week 5
-Jerry Rosburg,DEN,2,1,1,0,0,2,1,2022,Interim coach after week 16
-Giff Smith,LAC,3,0,3,0,0,2,1,2023,Interim coach after week 15
-Darrell Bevell,JAX,4,1,3,0,0,2,1,2021,Interim coach after Week 14
-Joe Philbin,GNB,4,2,2,0,0,2,1,2018,Interim coach after Week 13
-Darrell Bevell,DET,5,1,4,0,0,2,1,2020,Interim coach after Week 12
-Chris Tabor,CAR,6,1,5,0,0,2,1,2023,Interim coach after week 12
-Jeff Ulbrich,NYJ,12,3,9,0,0,2,1,2024,interim as of week 5
-Darren Rizzi,NOR,8,3,5,0,0,2,1,2024,interim after week 9
-Doug Marrone,JAX,2,1,1,0,0,0,1,2016,Hired after week 14
-Wade Phillips,DAL,8,1,7,0,0,1,0,2010,Fired after Week 9
-Frank Reich,IND,9,3,5,1,0,1,0,2022,Fired after week 9
-Dennis Allen,NOR,9,2,7,0,0,1,0,2024,fired after week 9
-Ken Whisenhunt,TEN,7,1,6,0,0,1,0,2015,Fired after Week 8
-Josh McDaniels,LVR,8,3,5,0,0,1,0,2023,Fired after week 8
-Mike Nolan,SFO,7,2,5,0,0,1,0,2008,Fired after Week 7
-Mike Martz,STL,5,2,3,0,0,1,0,2005,Fired after week 5
-Jay Gruden,WAS,5,0,5,0,0,1,0,2019,Fired after Week 5
-Dan Quinn,ATL,5,0,5,0,0,1,0,2020,Fired after week 5
-Matt Rhule,CAR,5,1,4,0,0,1,0,2022,Fired after week 5
-Robert Saleh,NYJ,5,2,3,0,1,1,0,2024,fired after week 5
-Lane Kiffin,OAK,4,1,3,0,0,1,0,2008,Fired after Week 4
-Scott Linehan,STL,4,0,4,0,0,1,0,2008,Fired after Week 4
-Dennis Allen,OAK,4,0,4,0,0,1,0,2014,Fired after week 4
-Joe Philbin,MIA,4,1,3,0,0,1,0,2015,Fired after Week 4
-Bill O'Brien,HOU,4,0,4,0,0,1,0,2020,Fired after week 4
-Mike Singletary,SFO,15,5,10,0,1,2,0,2010,Fired after Week 16
-Chip Kelly,PHI,15,6,9,0,0,1,0,2015,Fired after Week 16
-Rex Ryan,BUF,15,7,8,0,0,1,0,2016,Fired after Week 16
-Nathaniel Hackett,DEN,15,4,11,0,0,1,1,2022,Fired after week 16
-Brandon Staley,LAC,14,5,9,0,0,1,0,2023,fired after week 15
-Todd Haley,KAN,13,5,8,0,0,1,0,2011,Fired after week 14
-Tony Sparano,MIA,13,4,9,0,0,1,0,2011,Fired after week 14
-Jeff Fisher,LAR,13,4,9,0,0,1,0,2016,Fired after Week 14
-Josh McDaniels,DEN,12,3,9,0,0,1,0,2010,Fired after Week 13
-Mike McCarthy,GNB,12,4,7,1,0,1,0,2018,Fired after Week 13
-Ron Rivera,CAR,12,5,7,0,1,1,0,2019,Fired after Week 13
-Matt Eberflus,CHI,12,4,8,0,0,1,0,2024,fired after week 13
-Steve Mariucci,DET,11,4,7,0,0,1,0,2005,Fired after week 12
-Jack Del Rio,JAX,11,3,8,0,0,1,0,2011,Fired after Week 12
-Matt Patricia,DET,11,4,7,0,0,1,0,2020,Fired after week 12
-Frank Reich,CAR,11,1,10,0,0,1,0,2023,fired after week 12
-Brad Childress,MIN,10,3,7,0,0,1,0,2010,Fired after Week 11
-Dick Jauron,BUF,9,3,6,0,0,1,0,2009,Fired after Week 10
-Ben McAdoo,NYG,12,2,10,0,0,1,0,2017,Fired 12/04
-Mike Singletary,SFO,9,5,4,0,1,0,1,2008,Coach starting Week 8
-Joe Vitt,STL,11,4,7,0,0,2,1,2005,Coach starting week 6
-Tom Cable,OAK,12,4,8,0,0,0,1,2008,Coach starting Week 5
-Jim Haslett,STL,12,2,10,0,0,2,1,2008,Coach starting Week 5
-Jim Tomsula,SFO,1,1,0,0,0,0,0,2010,Coach starting Week 17
-Eric Studesville,DEN,4,1,3,0,1,2,1,2010,Coach starting Week 14
-Dick Jauron,DET,5,1,4,0,0,2,1,2005,Coach starting week 13
-Leslie Frazier,MIN,6,3,3,0,1,0,1,2010,Coach starting Week 12
-Perry Fewell,BUF,7,3,4,0,1,2,1,2009,Coach starting Week 11
-Jason Garrett,DAL,8,5,3,0,0,0,1,2010,Coach starting Week 10
-Bill Belichick,NWE,16,16,0,0,0,0,0,2007,AFC Champions
-Jim Caldwell,IND,16,14,2,0,1,0,0,2009,AFC Champions
-Mike Tomlin,PIT,16,12,4,0,1,0,0,2010,AFC Champions
-Bill Belichick,NWE,16,13,3,0,0,0,0,2011,AFC Champions
-John Fox,DEN,16,13,3,0,0,0,0,2013,AFC Champions
-Bill Belichick,NWE,16,13,3,0,0,0,0,2017,AFC Champions
-Andy Reid,KAN,16,14,2,0,0,0,0,2020,AFC Champions
-Zac Taylor,CIN,17,10,7,0,0,0,0,2021,AFC Champions
-Andy Reid,KAN,17,15,2,0,0,0,0,2024,AFC Champions
-Jonathan Gannon,ARI,17,8,9,0,0,0,0,2024,
-Raheem Morris,ATL,17,8,9,0,1,0,0,2024,
-John Harbaugh,BAL,17,12,5,0,0,0,0,2024,
-Sean McDermott,BUF,17,13,4,0,0,0,0,2024,
-Dave Canales,CAR,17,5,12,0,1,0,0,2024,
-Zac Taylor,CIN,17,9,8,0,0,0,0,2024,
-Kevin Stefanski,CLE,17,3,14,0,0,0,0,2024,
-Mike McCarthy,DAL,17,7,10,0,0,2,0,2024,
-Sean Payton,DEN,17,10,7,0,0,0,0,2024,
-Dan Campbell,DET,17,15,2,0,0,0,0,2024,
-Matt LaFleur,GNB,17,11,6,0,0,0,0,2024,
-DeMeco Ryans,HOU,17,10,7,0,1,0,0,2024,
-Shane Steichen,IND,17,8,9,0,0,0,0,2024,
-Doug Pederson,JAX,17,4,13,0,0,2,0,2024,
-Jim Harbaugh,LAC,17,11,6,0,0,0,0,2024,
-Sean McVay,LAR,17,10,7,0,0,0,0,2024,
-Antonio Pierce,LVR,17,4,13,0,1,2,0,2024,
-Mike McDaniel,MIA,17,8,9,0,1,0,0,2024,
-Kevin O'Connell,MIN,17,14,3,0,0,0,0,2024,
-Jerod Mayo,NWE,17,4,13,0,1,2,0,2024,
-Brian Daboll,NYG,17,3,14,0,0,0,0,2024,
-Mike Tomlin,PIT,17,10,7,0,1,0,0,2024,
-Mike Macdonald,SEA,17,10,7,0,0,0,0,2024,
-Kyle Shanahan,SFO,17,6,11,0,0,0,0,2024,
-Todd Bowles,TAM,17,10,7,0,1,0,0,2024,
-Brian Callahan,TEN,17,3,14,0,0,0,0,2024,
-Dan Quinn,WAS,17,12,5,0,0,0,0,2024,
-Dennis Green,ARI,16,5,11,0,1,0,0,2005,
-Jim Mora,ATL,16,8,8,0,0,0,0,2005,
-Brian Billick,BAL,16,6,10,0,0,0,0,2005,
-Mike Mularkey,BUF,16,5,11,0,0,2,0,2005,
-John Fox,CAR,16,11,5,0,0,0,0,2005,
-Lovie Smith,CHI,16,11,5,0,1,0,0,2005,
-Marvin Lewis,CIN,16,11,5,0,1,0,0,2005,
-Romeo Crennel,CLE,16,6,10,0,1,0,0,2005,
-Bill Parcells,DAL,16,9,7,0,0,0,0,2005,
-Mike Shanahan,DEN,16,13,3,0,0,0,0,2005,
-Mike Sherman,GNB,16,4,12,0,0,2,0,2005,
-Dom Capers,HOU,16,2,14,0,0,2,0,2005,
-Tony Dungy,IND,16,14,2,0,1,0,0,2005,
-Jack Del Rio,JAX,16,12,4,0,0,0,0,2005,
-Dick Vermeil,KAN,16,10,6,0,0,2,0,2005,
-Nick Saban,MIA,16,9,7,0,0,0,0,2005,
-Mike Tice,MIN,16,9,7,0,0,2,0,2005,
-Jim Haslett,NOR,16,3,13,0,0,2,0,2005,
-Bill Belichick,NWE,16,10,6,0,0,0,0,2005,
-Tom Coughlin,NYG,16,11,5,0,0,0,0,2005,
-Herm Edwards,NYJ,16,4,12,0,1,3,0,2005,
-Norv Turner,OAK,16,4,12,0,0,2,0,2005,
-Andy Reid,PHI,16,6,10,0,0,0,0,2005,
-Marty Schottenheimer,SDG,16,9,7,0,0,0,0,2005,
-Mike Nolan,SFO,16,4,12,0,0,0,0,2005,
-Jon Gruden,TAM,16,11,5,0,0,0,0,2005,
-Jeff Fisher,TEN,16,4,12,0,0,0,0,2005,
-Joe Gibbs,WAS,16,10,6,0,0,0,0,2005,
-Dennis Green,ARI,16,5,11,0,1,2,0,2006,
-Jim Mora,ATL,16,7,9,0,0,2,0,2006,
-Brian Billick,BAL,16,13,3,0,0,0,0,2006,
-Dick Jauron,BUF,16,7,9,0,0,0,0,2006,
-John Fox,CAR,16,8,8,0,0,0,0,2006,
-Marvin Lewis,CIN,16,8,8,0,1,0,0,2006,
-Romeo Crennel,CLE,16,4,12,0,1,0,0,2006,
-Bill Parcells,DAL,16,9,7,0,0,3,0,2006,
-Mike Shanahan,DEN,16,9,7,0,0,0,0,2006,
-Rod Marinelli,DET,16,3,13,0,0,0,0,2006,
-Mike McCarthy,GNB,16,8,8,0,0,0,0,2006,
-Gary Kubiak,HOU,16,6,10,0,0,0,0,2006,
-Jack Del Rio,JAX,16,8,8,0,0,0,0,2006,
-Herm Edwards,KAN,16,9,7,0,1,0,0,2006,
-Nick Saban,MIA,16,6,10,0,0,3,0,2006,
-Brad Childress,MIN,16,6,10,0,0,0,0,2006,
-Sean Payton,NOR,16,10,6,0,0,0,0,2006,
-Bill Belichick,NWE,16,12,4,0,0,0,0,2006,
-Tom Coughlin,NYG,16,8,8,0,0,0,0,2006,
-Eric Mangini,NYJ,16,10,6,0,0,0,0,2006,
-Art Shell,OAK,16,2,14,0,1,2,0,2006,
-Andy Reid,PHI,16,10,6,0,0,0,0,2006,
-Bill Cowher,PIT,16,8,8,0,0,3,0,2006,
-Marty Schottenheimer,SDG,16,14,2,0,0,2,0,2006,
-Mike Holmgren,SEA,16,9,7,0,0,0,0,2006,
-Mike Nolan,SFO,16,7,9,0,0,0,0,2006,
-Scott Linehan,STL,16,8,8,0,0,0,0,2006,
-Jon Gruden,TAM,16,4,12,0,0,0,0,2006,
-Jeff Fisher,TEN,16,8,8,0,0,0,0,2006,
-Joe Gibbs,WAS,16,5,11,0,0,0,0,2006,
-Ken Whisenhunt,ARI,16,8,8,0,0,0,0,2007,
-Emmitt Thomas,ATL,3,1,2,0,1,2,1,2007,
-Bobby Petrino,ATL,13,3,10,0,0,1,0,2007,
-Brian Billick,BAL,16,5,11,0,0,2,0,2007,
-Dick Jauron,BUF,16,7,9,0,0,0,0,2007,
-John Fox,CAR,16,7,9,0,0,0,0,2007,
-Lovie Smith,CHI,16,7,9,0,1,0,0,2007,
-Marvin Lewis,CIN,16,7,9,0,1,0,0,2007,
-Romeo Crennel,CLE,16,10,6,0,1,0,0,2007,
-Wade Phillips,DAL,16,13,3,0,0,0,0,2007,
-Mike Shanahan,DEN,16,7,9,0,0,0,0,2007,
-Rod Marinelli,DET,16,7,9,0,0,0,0,2007,
-Mike McCarthy,GNB,16,13,3,0,0,0,0,2007,
-Gary Kubiak,HOU,16,8,8,0,0,0,0,2007,
-Tony Dungy,IND,16,13,3,0,1,0,0,2007,
-Jack Del Rio,JAX,16,11,5,0,0,0,0,2007,
-Herm Edwards,KAN,16,4,12,0,1,0,0,2007,
-Cam Cameron,MIA,16,1,15,0,0,2,0,2007,
-Brad Childress,MIN,16,8,8,0,0,0,0,2007,
-Sean Payton,NOR,16,7,9,0,0,0,0,2007,
-Eric Mangini,NYJ,16,4,12,0,0,0,0,2007,
-Lane Kiffin,OAK,16,4,12,0,0,0,0,2007,
-Andy Reid,PHI,16,8,8,0,0,0,0,2007,
-Mike Tomlin,PIT,16,10,6,0,1,0,0,2007,
-Norv Turner,SDG,16,11,5,0,0,0,0,2007,
-Mike Holmgren,SEA,16,10,6,0,0,0,0,2007,
-Mike Nolan,SFO,16,5,11,0,0,0,0,2007,
-Scott Linehan,STL,16,3,13,0,0,0,0,2007,
-Jon Gruden,TAM,16,9,7,0,0,0,0,2007,
-Jeff Fisher,TEN,16,10,6,0,0,0,0,2007,
-Joe Gibbs,WAS,16,9,7,0,0,2,0,2007,
-Mike Smith,ATL,16,11,5,0,0,0,0,2008,
-John Harbaugh,BAL,16,11,5,0,0,0,0,2008,
-Dick Jauron,BUF,16,7,9,0,0,0,0,2008,
-John Fox,CAR,16,12,4,0,0,0,0,2008,
-Lovie Smith,CHI,16,9,7,0,1,0,0,2008,
-Marvin Lewis,CIN,16,4,11,1,1,0,0,2008,
-Romeo Crennel,CLE,16,4,12,0,1,2,0,2008,
-Wade Phillips,DAL,16,9,7,0,0,0,0,2008,
-Mike Shanahan,DEN,16,8,8,0,0,2,0,2008,
-Rod Marinelli,DET,16,0,16,0,0,2,0,2008,
-Mike McCarthy,GNB,16,6,10,0,0,0,0,2008,
-Gary Kubiak,HOU,16,8,8,0,0,0,0,2008,
-Tony Dungy,IND,16,12,4,0,1,3,0,2008,
-Jack Del Rio,JAX,16,5,11,0,0,0,0,2008,
-Herm Edwards,KAN,16,2,14,0,1,2,0,2008,
-Tony Sparano,MIA,16,11,5,0,0,0,0,2008,
-Brad Childress,MIN,16,10,6,0,0,0,0,2008,
-Sean Payton,NOR,16,8,8,0,0,0,0,2008,
-Bill Belichick,NWE,16,11,5,0,0,0,0,2008,
-Tom Coughlin,NYG,16,12,4,0,0,0,0,2008,
-Eric Mangini,NYJ,16,9,7,0,0,2,0,2008,
-Andy Reid,PHI,16,9,6,1,0,0,0,2008,
-Norv Turner,SDG,16,8,8,0,0,0,0,2008,
-Mike Holmgren,SEA,16,4,12,0,0,3,0,2008,
-Jon Gruden,TAM,16,9,7,0,0,2,0,2008,
-Jeff Fisher,TEN,16,13,3,0,0,0,0,2008,
-Jim Zorn,WAS,16,8,8,0,0,0,0,2008,
-Ken Whisenhunt,ARI,16,10,6,0,0,0,0,2009,
-Mike Smith,ATL,16,9,7,0,0,0,0,2009,
-John Harbaugh,BAL,16,9,7,0,0,0,0,2009,
-John Fox,CAR,16,8,8,0,0,0,0,2009,
-Lovie Smith,CHI,16,7,9,0,1,0,0,2009,
-Marvin Lewis,CIN,16,10,6,0,1,0,0,2009,
-Eric Mangini,CLE,16,5,11,0,0,0,0,2009,
-Wade Phillips,DAL,16,11,5,0,0,0,0,2009,
-Josh McDaniels,DEN,16,8,8,0,0,0,0,2009,
-Jim Schwartz,DET,16,2,14,0,0,0,0,2009,
-Mike McCarthy,GNB,16,11,5,0,0,0,0,2009,
-Gary Kubiak,HOU,16,9,7,0,0,0,0,2009,
-Jack Del Rio,JAX,16,7,9,0,0,0,0,2009,
-Todd Haley,KAN,16,4,12,0,0,0,0,2009,
-Tony Sparano,MIA,16,7,9,0,0,0,0,2009,
-Brad Childress,MIN,16,12,4,0,0,0,0,2009,
-Bill Belichick,NWE,16,10,6,0,0,0,0,2009,
-Tom Coughlin,NYG,16,8,8,0,0,0,0,2009,
-Rex Ryan,NYJ,16,9,7,0,0,0,0,2009,
-Tom Cable,OAK,16,5,11,0,0,0,0,2009,
-Andy Reid,PHI,16,11,5,0,0,0,0,2009,
-Mike Tomlin,PIT,16,9,7,0,1,0,0,2009,
-Norv Turner,SDG,16,13,3,0,0,0,0,2009,
-Jim Mora,SEA,16,5,11,0,0,2,0,2009,
-Mike Singletary,SFO,16,8,8,0,1,0,0,2009,
-Steve Spagnuolo,STL,16,1,15,0,0,0,0,2009,
-Raheem Morris,TAM,16,3,13,0,1,0,0,2009,
-Jeff Fisher,TEN,16,8,8,0,0,0,0,2009,
-Jim Zorn,WAS,16,4,12,0,0,2,0,2009,
-Ken Whisenhunt,ARI,16,5,11,0,0,0,0,2010,
-Mike Smith,ATL,16,13,3,0,0,0,0,2010,
-John Harbaugh,BAL,16,12,4,0,0,0,0,2010,
-Chan Gailey,BUF,16,4,12,0,0,0,0,2010,
-John Fox,CAR,16,2,14,0,0,2,0,2010,
-Lovie Smith,CHI,16,11,5,0,1,0,0,2010,
-Marvin Lewis,CIN,16,4,12,0,1,0,0,2010,
-Eric Mangini,CLE,16,5,11,0,0,2,0,2010,
-Jim Schwartz,DET,16,6,10,0,0,0,0,2010,
-Gary Kubiak,HOU,16,6,10,0,0,0,0,2010,
-Jim Caldwell,IND,16,10,6,0,1,0,0,2010,
-Jack Del Rio,JAX,16,8,8,0,0,0,0,2010,
-Todd Haley,KAN,16,10,6,0,0,0,0,2010,
-Tony Sparano,MIA,16,7,9,0,0,0,0,2010,
-Sean Payton,NOR,16,11,5,0,0,0,0,2010,
-Bill Belichick,NWE,16,14,2,0,0,0,0,2010,
-Tom Coughlin,NYG,16,10,6,0,0,0,0,2010,
-Rex Ryan,NYJ,16,11,5,0,0,0,0,2010,
-Tom Cable,OAK,16,8,8,0,0,2,0,2010,
-Andy Reid,PHI,16,10,6,0,0,0,0,2010,
-Norv Turner,SDG,16,9,7,0,0,0,0,2010,
-Pete Carroll,SEA,16,7,9,0,0,0,0,2010,
-Steve Spagnuolo,STL,16,7,9,0,0,0,0,2010,
-Raheem Morris,TAM,16,10,6,0,1,0,0,2010,
-Jeff Fisher,TEN,16,6,10,0,0,2,0,2010,
-Mike Shanahan,WAS,16,6,10,0,0,0,0,2010,
-Ken Whisenhunt,ARI,16,8,8,0,0,0,0,2011,
-Mike Smith,ATL,16,10,6,0,0,0,0,2011,
-John Harbaugh,BAL,16,12,4,0,0,0,0,2011,
-Chan Gailey,BUF,16,6,10,0,0,0,0,2011,
-Ron Rivera,CAR,16,6,10,0,1,0,0,2011,
-Lovie Smith,CHI,16,8,8,0,1,0,0,2011,
-Marvin Lewis,CIN,16,9,7,0,1,0,0,2011,
-Pat Shurmur,CLE,16,4,12,0,0,0,0,2011,
-Jason Garrett,DAL,16,8,8,0,0,0,0,2011,
-John Fox,DEN,16,8,8,0,0,0,0,2011,
-Jim Schwartz,DET,16,10,6,0,0,0,0,2011,
-Mike McCarthy,GNB,16,15,1,0,0,0,0,2011,
-Gary Kubiak,HOU,16,10,6,0,0,0,0,2011,
-Jim Caldwell,IND,16,2,14,0,1,2,0,2011,
-Mel Tucker,JAX,5,2,3,0,1,2,1,2011,
-Romeo Crennel,KAN,3,2,1,0,1,0,1,2011,
-Todd Bowles,MIA,3,2,1,0,1,2,1,2011,
-Leslie Frazier,MIN,16,3,13,0,1,0,0,2011,
-Sean Payton,NOR,16,13,3,0,0,0,0,2011,
-Rex Ryan,NYJ,16,8,8,0,0,0,0,2011,
-Hue Jackson,OAK,16,8,8,0,1,2,0,2011,
-Andy Reid,PHI,16,8,8,0,0,0,0,2011,
-Mike Tomlin,PIT,16,12,4,0,1,0,0,2011,
-Norv Turner,SDG,16,8,8,0,0,0,0,2011,
-Pete Carroll,SEA,16,7,9,0,0,0,0,2011,
-Jim Harbaugh,SFO,16,13,3,0,0,0,0,2011,
-Steve Spagnuolo,STL,16,2,14,0,0,2,0,2011,
-Raheem Morris,TAM,16,4,12,0,1,2,0,2011,
-Mike Munchak,TEN,16,9,7,0,0,0,0,2011,
-Mike Shanahan,WAS,16,5,11,0,0,0,0,2011,
-Ken Whisenhunt,ARI,16,5,11,0,0,2,0,2012,
-Mike Smith,ATL,16,13,3,0,0,0,0,2012,
-Chan Gailey,BUF,16,6,10,0,0,2,0,2012,
-Ron Rivera,CAR,16,7,9,0,1,0,0,2012,
-Lovie Smith,CHI,16,10,6,0,1,2,0,2012,
-Marvin Lewis,CIN,16,10,6,0,1,0,0,2012,
-Pat Shurmur,CLE,16,5,11,0,0,2,0,2012,
-Jason Garrett,DAL,16,8,8,0,0,0,0,2012,
-John Fox,DEN,16,13,3,0,0,0,0,2012,
-Jim Schwartz,DET,16,4,12,0,0,0,0,2012,
-Mike McCarthy,GNB,16,11,5,0,0,0,0,2012,
-Gary Kubiak,HOU,16,12,4,0,0,0,0,2012,
-Mike Mularkey,JAX,16,2,14,0,0,2,0,2012,
-Romeo Crennel,KAN,16,2,14,0,1,2,0,2012,
-Joe Philbin,MIA,16,7,9,0,0,0,0,2012,
-Leslie Frazier,MIN,16,10,6,0,1,0,0,2012,
-Joe Vitt,NOR,10,5,5,0,0,0,1,2012,
-Aaron Kromer,NOR,6,2,4,0,0,0,1,2012,
-Bill Belichick,NWE,16,12,4,0,0,0,0,2012,
-Tom Coughlin,NYG,16,9,7,0,0,0,0,2012,
-Rex Ryan,NYJ,16,6,10,0,0,0,0,2012,
-Dennis Allen,OAK,16,4,12,0,0,0,0,2012,
-Andy Reid,PHI,16,4,12,0,0,2,0,2012,
-Mike Tomlin,PIT,16,8,8,0,1,0,0,2012,
-Norv Turner,SDG,16,7,9,0,0,2,0,2012,
-Pete Carroll,SEA,16,11,5,0,0,0,0,2012,
-Jeff Fisher,STL,16,7,8,1,0,0,0,2012,
-Greg Schiano,TAM,16,7,9,0,0,0,0,2012,
-Mike Munchak,TEN,16,6,10,0,0,0,0,2012,
-Mike Shanahan,WAS,16,10,6,0,0,0,0,2012,
-Bruce Arians,ARI,16,10,6,0,0,0,0,2013,
-Mike Smith,ATL,16,4,12,0,0,0,0,2013,
-John Harbaugh,BAL,16,8,8,0,0,0,0,2013,
-Doug Marrone,BUF,16,6,10,0,0,0,0,2013,
-Ron Rivera,CAR,16,12,4,0,1,0,0,2013,
-Marc Trestman,CHI,16,8,8,0,0,0,0,2013,
-Marvin Lewis,CIN,16,11,5,0,1,0,0,2013,
-Rob Chudzinski,CLE,16,4,12,0,0,2,0,2013,
-Jason Garrett,DAL,16,8,8,0,0,0,0,2013,
-Jim Schwartz,DET,16,7,9,0,0,2,0,2013,
-Mike McCarthy,GNB,16,8,7,1,0,0,0,2013,
-Gary Kubiak,HOU,13,2,11,0,0,1,0,2013,
-Wade Phillips,HOU,3,0,3,0,0,2,1,2013,
-Chuck Pagano,IND,16,11,5,0,0,0,0,2013,
-Gus Bradley,JAX,16,4,12,0,0,0,0,2013,
-Andy Reid,KAN,16,11,5,0,0,0,0,2013,
-Joe Philbin,MIA,16,8,8,0,0,0,0,2013,
-Leslie Frazier,MIN,16,5,10,1,1,2,0,2013,
-Sean Payton,NOR,16,11,5,0,0,0,0,2013,
-Bill Belichick,NWE,16,12,4,0,0,0,0,2013,
-Tom Coughlin,NYG,16,7,9,0,0,0,0,2013,
-Rex Ryan,NYJ,16,8,8,0,0,0,0,2013,
-Dennis Allen,OAK,16,4,12,0,0,0,0,2013,
-Chip Kelly,PHI,16,10,6,0,0,0,0,2013,
-Mike Tomlin,PIT,16,8,8,0,1,0,0,2013,
-Mike McCoy,SDG,16,9,7,0,0,0,0,2013,
-Jim Harbaugh,SFO,16,12,4,0,0,0,0,2013,
-Jeff Fisher,STL,16,7,9,0,0,0,0,2013,
-Greg Schiano,TAM,16,4,12,0,0,2,0,2013,
-Mike Munchak,TEN,16,7,9,0,0,2,0,2013,
-Mike Shanahan,WAS,16,3,13,0,0,2,0,2013,
-Bruce Arians,ARI,16,11,5,0,0,0,0,2014,
-Mike Smith,ATL,16,6,10,0,0,2,0,2014,
-John Harbaugh,BAL,16,10,6,0,0,0,0,2014,
-Doug Marrone,BUF,16,9,7,0,0,3,0,2014,
-Ron Rivera,CAR,16,7,8,1,1,0,0,2014,
-Marc Trestman,CHI,16,5,11,0,0,2,0,2014,
-Marvin Lewis,CIN,16,10,5,1,1,0,0,2014,
-Mike Pettine,CLE,16,7,9,0,0,0,0,2014,
-Jason Garrett,DAL,16,12,4,0,0,0,0,2014,
-John Fox,DEN,16,12,4,0,0,2,0,2014,
-Jim Caldwell,DET,16,11,5,0,1,0,0,2014,
-Mike McCarthy,GNB,16,12,4,0,0,0,0,2014,
-Bill O'Brien,HOU,16,9,7,0,0,0,0,2014,
-Chuck Pagano,IND,16,11,5,0,0,0,0,2014,
-Gus Bradley,JAX,16,3,13,0,0,0,0,2014,
-Andy Reid,KAN,16,9,7,0,0,0,0,2014,
-Joe Philbin,MIA,16,8,8,0,0,0,0,2014,
-Mike Zimmer,MIN,16,7,9,0,0,0,0,2014,
-Sean Payton,NOR,16,7,9,0,0,0,0,2014,
-Tom Coughlin,NYG,16,6,10,0,0,0,0,2014,
-Rex Ryan,NYJ,16,4,12,0,0,2,0,2014,
-Tony Sparano,OAK,12,3,9,0,0,2,1,2014,
-Chip Kelly,PHI,16,10,6,0,0,0,0,2014,
-Mike Tomlin,PIT,16,11,5,0,1,0,0,2014,
-Mike McCoy,SDG,16,9,7,0,0,0,0,2014,
-Jim Harbaugh,SFO,16,8,8,0,0,3,0,2014,
-Jeff Fisher,STL,16,6,10,0,0,0,0,2014,
-Lovie Smith,TAM,16,2,14,0,1,0,0,2014,
-Ken Whisenhunt,TEN,16,2,14,0,0,0,0,2014,
-Jay Gruden,WAS,16,4,12,0,0,0,0,2014,
-Bruce Arians,ARI,16,13,3,0,0,0,0,2015,
-Dan Quinn,ATL,16,8,8,0,0,0,0,2015,
-John Harbaugh,BAL,16,5,11,0,0,0,0,2015,
-Rex Ryan,BUF,16,8,8,0,0,0,0,2015,
-John Fox,CHI,16,6,10,0,0,0,0,2015,
-Marvin Lewis,CIN,16,12,4,0,1,0,0,2015,
-Mike Pettine,CLE,16,3,13,0,0,2,0,2015,
-Jason Garrett,DAL,16,4,12,0,0,0,0,2015,
-Jim Caldwell,DET,16,7,9,0,1,0,0,2015,
-Mike McCarthy,GNB,16,10,6,0,0,0,0,2015,
-Bill O'Brien,HOU,16,9,7,0,0,0,0,2015,
-Chuck Pagano,IND,16,8,8,0,0,0,0,2015,
-Gus Bradley,JAX,16,5,11,0,0,0,0,2015,
-Andy Reid,KAN,16,11,5,0,0,0,0,2015,
-Mike Zimmer,MIN,16,11,5,0,0,0,0,2015,
-Sean Payton,NOR,16,7,9,0,0,0,0,2015,
-Bill Belichick,NWE,16,12,4,0,0,0,0,2015,
-Tom Coughlin,NYG,16,6,10,0,0,3,0,2015,
-Todd Bowles,NYJ,16,10,6,0,1,0,0,2015,
-Jack Del Rio,OAK,16,7,9,0,0,0,0,2015,
-Mike Tomlin,PIT,16,10,6,0,1,0,0,2015,
-Mike McCoy,SDG,16,4,12,0,0,0,0,2015,
-Pete Carroll,SEA,16,10,6,0,0,0,0,2015,
-Jim Tomsula,SFO,16,5,11,0,0,2,0,2015,
-Jeff Fisher,STL,16,7,9,0,0,0,0,2015,
-Lovie Smith,TAM,16,6,10,0,1,2,0,2015,
-Jay Gruden,WAS,16,9,7,0,0,0,0,2015,
-Bruce Arians,ARI,16,7,8,1,0,0,0,2016,
-John Harbaugh,BAL,16,8,8,0,0,0,0,2016,
-Ron Rivera,CAR,16,6,10,0,1,0,0,2016,
-John Fox,CHI,16,3,13,0,0,0,0,2016,
-Marvin Lewis,CIN,16,6,9,1,1,0,0,2016,
-Hue Jackson,CLE,16,1,15,0,1,0,0,2016,
-Jason Garrett,DAL,16,13,3,0,0,0,0,2016,
-Gary Kubiak,DEN,16,9,7,0,0,2,0,2016,
-Jim Caldwell,DET,16,9,7,0,1,0,0,2016,
-Mike McCarthy,GNB,16,10,6,0,0,0,0,2016,
-Bill O'Brien,HOU,16,9,7,0,0,0,0,2016,
-Chuck Pagano,IND,16,8,8,0,0,0,0,2016,
-Gus Bradley,JAX,14,2,12,0,0,1,0,2016,
-Andy Reid,KAN,16,12,4,0,0,0,0,2016,
-Adam Gase,MIA,16,10,6,0,0,0,0,2016,
-Mike Zimmer,MIN,16,8,8,0,0,0,0,2016,
-Sean Payton,NOR,16,7,9,0,0,0,0,2016,
-Ben McAdoo,NYG,16,11,5,0,0,0,0,2016,
-Todd Bowles,NYJ,16,5,11,0,1,0,0,2016,
-Jack Del Rio,OAK,16,12,4,0,0,0,0,2016,
-Doug Pederson,PHI,16,7,9,0,0,0,0,2016,
-Mike Tomlin,PIT,16,11,5,0,1,0,0,2016,
-Mike McCoy,SDG,16,5,11,0,0,2,0,2016,
-Pete Carroll,SEA,16,10,5,1,0,0,0,2016,
-Chip Kelly,SFO,16,2,14,0,0,2,0,2016,
-Dirk Koetter,TAM,16,9,7,0,0,0,0,2016,
-Mike Mularkey,TEN,16,9,7,0,0,0,0,2016,
-Jay Gruden,WAS,16,8,7,1,0,0,0,2016,
-Bruce Arians,ARI,16,8,8,0,0,3,0,2017,
-Dan Quinn,ATL,16,10,6,0,0,0,0,2017,
-John Harbaugh,BAL,16,9,7,0,0,0,0,2017,
-Sean McDermott,BUF,16,9,7,0,0,0,0,2017,
-Ron Rivera,CAR,16,11,5,0,1,0,0,2017,
-John Fox,CHI,16,5,11,0,0,2,0,2017,
-Marvin Lewis,CIN,16,7,9,0,1,0,0,2017,
-Hue Jackson,CLE,16,0,16,0,1,0,0,2017,
-Jason Garrett,DAL,16,9,7,0,0,0,0,2017,
-Vance Joseph,DEN,16,5,11,0,1,0,0,2017,
-Jim Caldwell,DET,16,9,7,0,1,2,0,2017,
-Mike McCarthy,GNB,16,7,9,0,0,0,0,2017,
-Bill O'Brien,HOU,16,4,12,0,0,0,0,2017,
-Chuck Pagano,IND,16,4,12,0,0,2,0,2017,
-Doug Marrone,JAX,16,10,6,0,0,0,0,2017,
-Andy Reid,KAN,16,10,6,0,0,0,0,2017,
-Anthony Lynn,LAC,16,9,7,0,1,0,0,2017,
-Sean McVay,LAR,16,11,5,0,0,0,0,2017,
-Adam Gase,MIA,16,6,10,0,0,0,0,2017,
-Mike Zimmer,MIN,16,13,3,0,0,0,0,2017,
-Sean Payton,NOR,16,11,5,0,0,0,0,2017,
-Todd Bowles,NYJ,16,5,11,0,1,0,0,2017,
-Jack Del Rio,OAK,16,6,10,0,0,2,0,2017,
-Mike Tomlin,PIT,16,13,3,0,1,0,0,2017,
-Pete Carroll,SEA,16,9,7,0,0,0,0,2017,
-Kyle Shanahan,SFO,16,6,10,0,0,0,0,2017,
-Dirk Koetter,TAM,16,5,11,0,0,0,0,2017,
-Mike Mularkey,TEN,16,9,7,0,0,2,0,2017,
-Jay Gruden,WAS,16,7,9,0,0,0,0,2017,
-Steve Wilks,ARI,16,3,13,0,1,2,0,2018,
-Dan Quinn,ATL,16,7,9,0,0,0,0,2018,
-John Harbaugh,BAL,16,10,6,0,0,0,0,2018,
-Sean McDermott,BUF,16,6,10,0,0,0,0,2018,
-Ron Rivera,CAR,16,7,9,0,1,0,0,2018,
-Matt Nagy,CHI,16,12,4,0,0,0,0,2018,
-Marvin Lewis,CIN,16,6,10,0,1,2,0,2018,
-Hue Jackson,CLE,8,2,5,1,1,1,0,2018,
-Gregg Williams,CLE,8,5,3,0,0,2,1,2018,
-Jason Garrett,DAL,16,10,6,0,0,0,0,2018,
-Vance Joseph,DEN,16,6,10,0,1,2,0,2018,
-Matt Patricia,DET,16,6,10,0,0,0,0,2018,
-Bill O'Brien,HOU,16,11,5,0,0,0,0,2018,
-Frank Reich,IND,16,10,6,0,0,0,0,2018,
-Doug Marrone,JAX,16,5,11,0,0,0,0,2018,
-Andy Reid,KAN,16,12,4,0,0,0,0,2018,
-Anthony Lynn,LAC,16,12,4,0,1,0,0,2018,
-Adam Gase,MIA,16,7,9,0,0,2,0,2018,
-Mike Zimmer,MIN,16,8,7,1,0,0,0,2018,
-Sean Payton,NOR,16,13,3,0,0,0,0,2018,
-Pat Shurmur,NYG,16,5,11,0,0,0,0,2018,
-Todd Bowles,NYJ,16,4,12,0,1,2,0,2018,
-Jon Gruden,OAK,16,4,12,0,0,0,0,2018,
-Doug Pederson,PHI,16,9,7,0,0,0,0,2018,
-Mike Tomlin,PIT,16,9,6,1,1,0,0,2018,
-Pete Carroll,SEA,16,10,6,0,0,0,0,2018,
-Kyle Shanahan,SFO,16,4,12,0,0,0,0,2018,
-Dirk Koetter,TAM,16,5,11,0,0,2,0,2018,
-Mike Vrabel,TEN,16,9,7,0,0,0,0,2018,
-Jay Gruden,WAS,16,7,9,0,0,0,0,2018,
-Kliff Kingsbury,ARI,16,5,10,1,0,0,0,2019,
-Dan Quinn,ATL,16,7,9,0,0,0,0,2019,
-John Harbaugh,BAL,16,14,2,0,0,0,0,2019,
-Sean McDermott,BUF,16,10,6,0,0,0,0,2019,
-Matt Nagy,CHI,16,8,8,0,0,0,0,2019,
-Zac Taylor,CIN,16,2,14,0,0,0,0,2019,
-Freddie Kitchens,CLE,16,6,10,0,0,2,0,2019,
-Jason Garrett,DAL,16,8,8,0,0,2,0,2019,
-Vic Fangio,DEN,16,7,9,0,0,0,0,2019,
-Matt Patricia,DET,16,3,12,1,0,0,0,2019,
-Matt LaFleur,GNB,16,13,3,0,0,0,0,2019,
-Bill O'Brien,HOU,16,10,6,0,0,0,0,2019,
-Frank Reich,IND,16,7,9,0,0,0,0,2019,
-Doug Marrone,JAX,16,6,10,0,0,0,0,2019,
-Anthony Lynn,LAC,16,5,11,0,1,0,0,2019,
-Sean McVay,LAR,16,9,7,0,0,0,0,2019,
-Brian Flores,MIA,16,5,11,0,1,0,0,2019,
-Mike Zimmer,MIN,16,10,6,0,0,0,0,2019,
-Sean Payton,NOR,16,13,3,0,0,0,0,2019,
-Bill Belichick,NWE,16,12,4,0,0,0,0,2019,
-Pat Shurmur,NYG,16,4,12,0,0,2,0,2019,
-Adam Gase,NYJ,16,7,9,0,0,0,0,2019,
-Jon Gruden,OAK,16,7,9,0,0,0,0,2019,
-Doug Pederson,PHI,16,9,7,0,0,0,0,2019,
-Mike Tomlin,PIT,16,8,8,0,1,0,0,2019,
-Pete Carroll,SEA,16,11,5,0,0,0,0,2019,
-Bruce Arians,TAM,16,7,9,0,0,0,0,2019,
-Mike Vrabel,TEN,16,9,7,0,0,0,0,2019,
-Kliff Kingsbury,ARI,16,8,8,0,0,0,0,2020,
-Raheem Morris,ATL,11,4,7,0,1,0,1,2020,
-John Harbaugh,BAL,16,11,5,0,0,0,0,2020,
-Sean McDermott,BUF,16,13,3,0,0,0,0,2020,
-Matt Rhule,CAR,16,5,11,0,0,0,0,2020,
-Matt Nagy,CHI,16,8,8,0,0,0,0,2020,
-Zac Taylor,CIN,16,4,11,1,0,0,0,2020,
-Kevin Stefanski,CLE,16,11,5,0,0,0,0,2020,
-Mike McCarthy,DAL,16,6,10,0,0,0,0,2020,
-Vic Fangio,DEN,16,5,11,0,0,0,0,2020,
-Matt LaFleur,GNB,16,13,3,0,0,0,0,2020,
-Romeo Crennel,HOU,12,4,8,0,1,2,1,2020,
-Frank Reich,IND,16,11,5,0,0,0,0,2020,
-Doug Marrone,JAX,16,1,15,0,0,2,0,2020,
-Anthony Lynn,LAC,16,7,9,0,1,2,0,2020,
-Sean McVay,LAR,16,10,6,0,0,0,0,2020,
-Jon Gruden,LVR,16,8,8,0,0,0,0,2020,
-Brian Flores,MIA,16,10,6,0,1,0,0,2020,
-Mike Zimmer,MIN,16,7,9,0,0,0,0,2020,
-Sean Payton,NOR,16,12,4,0,0,0,0,2020,
-Bill Belichick,NWE,16,7,9,0,0,0,0,2020,
-Joe Judge,NYG,16,6,10,0,0,0,0,2020,
-Adam Gase,NYJ,16,2,14,0,0,2,0,2020,
-Doug Pederson,PHI,16,4,11,1,0,2,0,2020,
-Mike Tomlin,PIT,16,12,4,0,1,0,0,2020,
-Pete Carroll,SEA,16,12,4,0,0,0,0,2020,
-Kyle Shanahan,SFO,16,6,10,0,0,0,0,2020,
-Mike Vrabel,TEN,16,11,5,0,0,0,0,2020,
-Ron Rivera,WAS,16,7,9,0,1,0,0,2020,
-Kliff Kingsbury,ARI,17,11,6,0,0,0,0,2021,
-Arthur Smith,ATL,17,7,10,0,0,0,0,2021,
-John Harbaugh,BAL,17,8,9,0,0,0,0,2021,
-Sean McDermott,BUF,17,11,6,0,0,0,0,2021,
-Matt Rhule,CAR,17,5,12,0,0,0,0,2021,
-Matt Nagy,CHI,17,6,11,0,0,2,0,2021,
-Kevin Stefanski,CLE,17,8,9,0,0,0,0,2021,
-Mike McCarthy,DAL,17,12,5,0,0,0,0,2021,
-Vic Fangio,DEN,17,7,10,0,0,2,0,2021,
-Dan Campbell,DET,17,3,13,1,0,0,0,2021,
-Matt LaFleur,GNB,17,13,4,0,0,0,0,2021,
-David Culley,HOU,17,4,13,0,1,2,0,2021,
-Frank Reich,IND,17,9,8,0,0,0,0,2021,
-Urban Meyer,JAX,13,2,11,0,0,1,0,2021,
-Andy Reid,KAN,17,12,5,0,0,0,0,2021,
-Brandon Staley,LAC,17,9,8,0,0,0,0,2021,
-Brian Flores,MIA,17,9,8,0,1,2,0,2021,
-Mike Zimmer,MIN,17,8,9,0,0,2,0,2021,
-Sean Payton,NOR,17,9,8,0,0,3,0,2021,
-Bill Belichick,NWE,17,10,7,0,0,0,0,2021,
-Joe Judge,NYG,17,4,13,0,0,2,0,2021,
-Robert Saleh,NYJ,17,4,13,0,1,0,0,2021,
-Nick Sirianni,PHI,17,9,8,0,0,0,0,2021,
-Mike Tomlin,PIT,17,9,7,1,1,0,0,2021,
-Pete Carroll,SEA,17,7,10,0,0,0,0,2021,
-Kyle Shanahan,SFO,17,10,7,0,0,0,0,2021,
-Bruce Arians,TAM,17,13,4,0,0,3,0,2021,
-Mike Vrabel,TEN,17,12,5,0,0,0,0,2021,
-Ron Rivera,WAS,17,7,10,0,1,0,0,2021,
-Kliff Kingsbury,ARI,17,4,13,0,0,2,0,2022,
-Arthur Smith,ATL,17,7,10,0,0,0,0,2022,
-John Harbaugh,BAL,17,10,7,0,0,0,0,2022,
-Sean McDermott,BUF,16,13,3,0,0,0,0,2022,
-Matt Eberflus,CHI,17,3,14,0,0,0,0,2022,
-Zac Taylor,CIN,16,12,4,0,0,0,0,2022,
-Kevin Stefanski,CLE,17,7,10,0,0,0,0,2022,
-Mike McCarthy,DAL,17,12,5,0,0,0,0,2022,
-Dan Campbell,DET,17,9,8,0,0,0,0,2022,
-Matt LaFleur,GNB,17,8,9,0,0,0,0,2022,
-Lovie Smith,HOU,17,3,13,1,1,2,0,2022,
-Doug Pederson,JAX,17,9,8,0,0,0,0,2022,
-Brandon Staley,LAC,17,10,7,0,0,0,0,2022,
-Sean McVay,LAR,17,5,12,0,0,0,0,2022,
-Josh McDaniels,LVR,17,6,11,0,0,0,0,2022,
-Mike McDaniel,MIA,17,9,8,0,1,0,0,2022,
-Kevin O'Connell,MIN,17,13,4,0,0,0,0,2022,
-Dennis Allen,NOR,17,7,10,0,0,0,0,2022,
-Bill Belichick,NWE,17,8,9,0,0,0,0,2022,
-Brian Daboll,NYG,17,9,7,1,0,0,0,2022,
-Robert Saleh,NYJ,17,7,10,0,1,0,0,2022,
-Mike Tomlin,PIT,17,9,8,0,1,0,0,2022,
-Pete Carroll,SEA,17,9,8,0,0,0,0,2022,
-Kyle Shanahan,SFO,17,13,4,0,0,0,0,2022,
-Todd Bowles,TAM,17,8,9,0,1,0,0,2022,
-Mike Vrabel,TEN,17,7,10,0,0,0,0,2022,
-Ron Rivera,WAS,17,8,8,1,1,0,0,2022,
-Jonathan Gannon,ARI,17,4,13,0,0,0,0,2023,
-Arthur Smith,ATL,17,7,10,0,0,2,0,2023,
-John Harbaugh,BAL,17,13,4,0,0,0,0,2023,
-Sean McDermott,BUF,17,11,6,0,0,0,0,2023,
-Matt Eberflus,CHI,17,7,10,0,0,0,0,2023,
-Zac Taylor,CIN,17,9,8,0,0,0,0,2023,
-Kevin Stefanski,CLE,17,11,6,0,0,0,0,2023,
-Mike McCarthy,DAL,17,12,5,0,0,0,0,2023,
-Sean Payton,DEN,17,8,9,0,0,0,0,2023,
-Dan Campbell,DET,17,12,5,0,0,0,0,2023,
-Matt LaFleur,GNB,17,9,8,0,0,0,0,2023,
-DeMeco Ryans,HOU,17,10,7,0,1,0,0,2023,
-Shane Steichen,IND,17,9,8,0,0,0,0,2023,
-Doug Pederson,JAX,17,9,8,0,0,0,0,2023,
-Sean McVay,LAR,17,10,7,0,0,0,0,2023,
-Mike McDaniel,MIA,17,11,6,0,1,0,0,2023,
-Kevin O'Connell,MIN,17,7,10,0,0,0,0,2023,
-Dennis Allen,NOR,17,9,8,0,0,0,0,2023,
-Bill Belichick,NWE,17,4,13,0,0,2,0,2023,
-Brian Daboll,NYG,17,6,11,0,0,0,0,2023,
-Robert Saleh,NYJ,17,7,10,0,1,0,0,2023,
-Nick Sirianni,PHI,17,11,6,0,0,0,0,2023,
-Mike Tomlin,PIT,17,10,7,0,1,0,0,2023,
-Pete Carroll,SEA,17,9,8,0,0,3,0,2023,
-Todd Bowles,TAM,17,9,8,0,1,0,0,2023,
-Mike Vrabel,TEN,17,6,11,0,0,2,0,2023,
-Ron Rivera,WAS,17,4,13,0,1,2,0,2023,
-Jonathan Gannon,ARI,0,0,0,0,0,0,0,2025,
-Raheem Morris,ATL,0,0,0,0,1,0,0,2025,
-John Harbaugh,BAL,0,0,0,0,0,0,0,2025,
-Sean McDermott,BUF,0,0,0,0,0,0,0,2025,
-Dave Canales,CAR,0,0,0,0,1,0,0,2025,
-Ben Johnson,CHI,0,0,0,0,0,0,0,2025,
-Zac Taylor,CIN,0,0,0,0,0,0,0,2025,
-Kevin Stefanski,CLE,0,0,0,0,0,0,0,2025,
-Brian Schottenheimer,DAL,0,0,0,0,0,0,0,2025,
-Sean Payton,DEN,0,0,0,0,0,0,0,2025,
-Dan Campbell,DET,0,0,0,0,0,0,0,2025,
-Matt LaFleur,GNB,0,0,0,0,0,0,0,2025,
-DeMeco Ryans,HOU,0,0,0,0,1,0,0,2025,
-Shane Steichen,IND,0,0,0,0,0,0,0,2025,
-Liam Coen,JAC,0,0,0,0,0,0,0,2025,
-Andy Reid,KAN,0,0,0,0,0,0,0,2025,
-Pete Carroll,LVR,0,0,0,0,0,0,0,2025,
-Jim Harbaugh,LAC,0,0,0,0,0,0,0,2025,
-Sean McVay,LAR,0,0,0,0,0,0,0,2025,
-Mike McDaniel,MIA,0,0,0,0,1,0,0,2025,
-Kevin O'Connell,MIN,0,0,0,0,0,0,0,2025,
-Mike Vrabel,NWE,0,0,0,0,0,0,0,2025,
-Kellen Moore,NOR,0,0,0,0,0,0,0,2025,
-Brian Daboll,NYG,0,0,0,0,0,0,0,2025,
-Aaron Glenn,NYJ,0,0,0,0,0,0,0,2025,
-Nick Sirianni,PHI,0,0,0,0,0,0,0,2025,
-Mike Tomlin,PIT,0,0,0,0,1,0,0,2025,
-Kyle Shanahan,SFO,0,0,0,0,0,0,0,2025,
-Mike Macdonald,SEA,0,0,0,0,0,0,0,2025,
-Todd Bowles,TAM,0,0,0,0,1,0,0,2025,
-Brian Callahan,TEN,0,0,0,0,0,0,0,2025,
-Dan Quinn,WAS,0,0,0,0,0,0,0,2025,
+"Coach","Tm","Start_Season","End_Season","Tenure","GAMES","WINS","LOSSES","TIE","Minority","NewCoach","Interim","Fired","WinPer"
+"Dennis Green","ARI",2005,2006,2,32,10,22,0,1,2,0,1,0.312
+"Ken Whisenhunt","ARI",2007,2012,6,96,45,51,0,0,1,0,1,0.469
+"Bruce Arians","ARI",2013,2017,5,80,49,30,1,0,1,0,1,0.619
+"Steve Wilks","ARI",2018,2018,1,16,3,13,0,1,1,0,1,0.188
+"Kliff Kingsbury","ARI",2019,2022,4,66,28,37,1,0,1,0,1,0.432
+"Jonathan Gannon","ARI",2023,2025,3,34,12,22,0,0,1,0,0,0.353
+"Jim Mora","ATL",2005,2006,2,32,15,17,0,0,2,0,1,0.469
+"Bobby Petrino","ATL",2007,2007,1,13,3,10,0,0,1,0,1,0.231
+"Emmitt Thomas","ATL",2007,2007,1,3,1,2,0,1,1,1,1,0.333
+"Mike Smith","ATL",2008,2014,7,112,66,46,0,0,1,0,1,0.589
+"Dan Quinn","ATL",2015,2020,6,85,43,42,0,0,1,0,1,0.506
+"Raheem Morris","ATL",2020,2025,6,28,12,16,0,1,1,1,0,0.429
+"Arthur Smith","ATL",2021,2023,3,51,21,30,0,0,1,0,1,0.412
+"Brian Billick","BAL",2005,2007,3,48,24,24,0,0,2,0,1,0.5
+"John Harbaugh","BAL",2008,2025,18,276,172,104,0,0,1,0,0,0.623
+"Mike Mularkey","BUF",2005,2005,1,16,5,11,0,0,2,0,1,0.312
+"Dick Jauron","BUF",2006,2009,4,57,24,33,0,0,1,0,1,0.421
+"Perry Fewell","BUF",2009,2009,1,7,3,4,0,1,1,1,1,0.429
+"Chan Gailey","BUF",2010,2012,3,48,16,32,0,0,1,0,1,0.333
+"Doug Marrone","BUF",2013,2014,2,32,15,17,0,0,1,0,1,0.469
+"Rex Ryan","BUF",2015,2016,2,31,15,16,0,0,1,0,1,0.484
+"Anthony Lynn","BUF",2016,2016,1,1,0,1,0,1,1,1,1,0
+"Sean McDermott","BUF",2017,2025,9,131,86,45,0,0,1,0,0,0.656
+"John Fox","CAR",2005,2010,6,96,48,48,0,0,2,0,1,0.5
+"Ron Rivera","CAR",2011,2019,9,140,76,63,1,1,1,0,1,0.546
+"Perry Fewell","CAR",2019,2019,1,4,0,4,0,0,1,1,1,0
+"Matt Rhule","CAR",2020,2022,3,38,11,27,0,0,1,0,1,0.289
+"Steve Wilks","CAR",2022,2022,1,12,6,6,0,1,1,1,1,0.5
+"Chris Tabor","CAR",2023,2023,1,6,1,5,0,0,1,1,1,0.167
+"Frank Reich","CAR",2023,2023,1,11,1,10,0,0,1,0,1,0.091
+"Dave Canales","CAR",2024,2025,2,17,5,12,0,1,1,0,0,0.294
+"Lovie Smith","CHI",2005,2012,8,128,76,52,0,1,2,0,1,0.594
+"Marc Trestman","CHI",2013,2014,2,32,13,19,0,0,1,0,1,0.406
+"John Fox","CHI",2015,2017,3,48,14,34,0,0,1,0,1,0.292
+"Matt Nagy","CHI",2018,2021,4,65,34,31,0,0,1,0,1,0.523
+"Matt Eberflus","CHI",2022,2024,3,46,14,32,0,0,1,0,1,0.304
+"Thomas Brown","CHI",2024,2024,1,5,1,4,0,0,1,1,1,0.2
+"Ben Johnson","CHI",2025,2025,1,0,0,0,0,0,1,0,0,0
+"Marvin Lewis","CIN",2005,2018,14,224,115,106,3,1,2,0,1,0.52
+"Zac Taylor","CIN",2019,2025,7,99,46,52,1,0,1,0,0,0.47
+"Romeo Crennel","CLE",2005,2008,4,64,24,40,0,1,1,0,1,0.375
+"Eric Mangini","CLE",2009,2010,2,32,10,22,0,0,1,0,1,0.312
+"Pat Shurmur","CLE",2011,2012,2,32,9,23,0,0,1,0,1,0.281
+"Rob Chudzinski","CLE",2013,2013,1,16,4,12,0,0,1,0,1,0.25
+"Mike Pettine","CLE",2014,2015,2,32,10,22,0,0,1,0,1,0.312
+"Hue Jackson","CLE",2016,2018,3,40,3,36,1,1,1,0,1,0.088
+"Gregg Williams","CLE",2018,2018,1,8,5,3,0,0,1,1,1,0.625
+"Freddie Kitchens","CLE",2019,2019,1,16,6,10,0,0,1,0,1,0.375
+"Kevin Stefanski","CLE",2020,2025,6,84,40,44,0,0,1,0,0,0.476
+"Bill Parcells","DAL",2005,2006,2,32,18,14,0,0,2,0,1,0.562
+"Wade Phillips","DAL",2007,2010,4,56,34,22,0,0,1,0,1,0.607
+"Jason Garrett","DAL",2010,2019,10,152,85,67,0,0,1,1,1,0.559
+"Mike McCarthy","DAL",2020,2024,5,84,49,35,0,0,1,0,1,0.583
+"Brian Schottenheimer","DAL",2025,2025,1,0,0,0,0,0,1,0,0,0
+"Mike Shanahan","DEN",2005,2008,4,64,37,27,0,0,2,0,1,0.578
+"Josh McDaniels","DEN",2009,2010,2,28,11,17,0,0,1,0,1,0.393
+"Eric Studesville","DEN",2010,2010,1,4,1,3,0,1,1,1,1,0.25
+"John Fox","DEN",2011,2014,4,64,46,18,0,0,1,0,1,0.719
+"Gary Kubiak","DEN",2015,2016,2,32,21,11,0,0,1,0,1,0.656
+"Vance Joseph","DEN",2017,2018,2,32,11,21,0,1,1,0,1,0.344
+"Vic Fangio","DEN",2019,2021,3,49,19,30,0,0,1,0,1,0.388
+"Jerry Rosburg","DEN",2022,2022,1,2,1,1,0,0,1,1,1,0.5
+"Nathaniel Hackett","DEN",2022,2022,1,15,4,11,0,0,1,1,1,0.267
+"Sean Payton","DEN",2023,2025,3,34,18,16,0,0,1,0,0,0.529
+"Dick Jauron","DET",2005,2005,1,5,1,4,0,0,1,1,1,0.2
+"Steve Mariucci","DET",2005,2005,1,11,4,7,0,0,2,0,1,0.364
+"Rod Marinelli","DET",2006,2008,3,48,10,38,0,0,1,0,1,0.208
+"Jim Schwartz","DET",2009,2013,5,80,29,51,0,0,1,0,1,0.362
+"Jim Caldwell","DET",2014,2017,4,64,36,28,0,1,1,0,1,0.562
+"Matt Patricia","DET",2018,2020,3,43,13,29,1,0,1,0,1,0.314
+"Darrell Bevell","DET",2020,2020,1,5,1,4,0,0,1,1,1,0.2
+"Dan Campbell","DET",2021,2025,5,68,39,28,1,0,1,0,0,0.581
+"Mike Sherman","GNB",2005,2005,1,16,4,12,0,0,2,0,1,0.25
+"Mike McCarthy","GNB",2006,2018,13,204,125,77,2,0,1,0,1,0.618
+"Joe Philbin","GNB",2018,2018,1,4,2,2,0,0,1,1,1,0.5
+"Matt LaFleur","GNB",2019,2025,7,100,67,33,0,0,1,0,0,0.67
+"Dom Capers","HOU",2005,2005,1,16,2,14,0,0,2,0,1,0.125
+"Gary Kubiak","HOU",2006,2013,8,125,61,64,0,0,1,0,1,0.488
+"Wade Phillips","HOU",2013,2013,1,3,0,3,0,0,1,1,1,0
+"Bill O'Brien","HOU",2014,2020,7,100,52,48,0,0,1,0,1,0.52
+"Romeo Crennel","HOU",2020,2020,1,12,4,8,0,1,1,1,1,0.333
+"David Culley","HOU",2021,2021,1,17,4,13,0,1,1,0,1,0.235
+"Lovie Smith","HOU",2022,2022,1,17,3,13,1,1,1,0,1,0.206
+"DeMeco Ryans","HOU",2023,2025,3,34,20,14,0,1,1,0,0,0.588
+"Tony Dungy","IND",2005,2008,4,64,51,13,0,1,2,0,1,0.797
+"Jim Caldwell","IND",2009,2011,3,48,26,22,0,1,1,0,1,0.542
+"Chuck Pagano","IND",2012,2017,6,96,53,43,0,0,1,0,1,0.552
+"Frank Reich","IND",2018,2022,5,74,40,33,1,0,1,0,1,0.547
+"Jeff Saturday","IND",2022,2022,1,8,1,7,0,0,1,1,1,0.125
+"Shane Steichen","IND",2023,2025,3,34,17,17,0,0,1,0,0,0.5
+"Jack Del Rio","JAX",2005,2011,7,107,54,53,0,0,2,0,1,0.505
+"Mel Tucker","JAX",2011,2011,1,5,2,3,0,1,1,1,1,0.4
+"Mike Mularkey","JAX",2012,2012,1,16,2,14,0,0,1,0,1,0.125
+"Gus Bradley","JAX",2013,2016,4,62,14,48,0,0,1,0,1,0.226
+"Doug Marrone","JAX",2016,2020,5,66,23,43,0,0,1,1,1,0.348
+"Darrell Bevell","JAX",2021,2021,1,4,1,3,0,0,1,1,1,0.25
+"Urban Meyer","JAX",2021,2021,1,13,2,11,0,0,1,0,1,0.154
+"Doug Pederson","JAX",2022,2024,3,51,22,29,0,0,1,0,1,0.431
+"Liam Coen","JAX",2025,2025,1,0,0,0,0,0,1,0,0,0
+"Dick Vermeil","KAN",2005,2005,1,16,10,6,0,0,2,0,1,0.625
+"Herm Edwards","KAN",2006,2008,3,48,15,33,0,1,1,0,1,0.312
+"Todd Haley","KAN",2009,2011,3,45,19,26,0,0,1,0,1,0.422
+"Romeo Crennel","KAN",2011,2012,2,19,4,15,0,1,1,1,1,0.211
+"Andy Reid","KAN",2013,2025,13,196,143,53,0,0,1,0,0,0.73
+"Marty Schottenheimer","LAC",2005,2006,2,32,23,9,0,0,2,0,1,0.719
+"Norv Turner","LAC",2007,2012,6,96,56,40,0,0,1,0,1,0.583
+"Mike McCoy","LAC",2013,2016,4,64,27,37,0,0,1,0,1,0.422
+"Anthony Lynn","LAC",2017,2020,4,64,33,31,0,1,1,0,1,0.516
+"Brandon Staley","LAC",2021,2023,3,48,24,24,0,0,1,0,1,0.5
+"Giff Smith","LAC",2023,2023,1,3,0,3,0,0,1,1,1,0
+"Jim Harbaugh","LAC",2024,2025,2,17,11,6,0,0,1,0,0,0.647
+"Joe Vitt","LAR",2005,2005,1,11,4,7,0,0,1,1,1,0.364
+"Mike Martz","LAR",2005,2005,1,5,2,3,0,0,2,0,1,0.4
+"Scott Linehan","LAR",2006,2008,3,36,11,25,0,0,1,0,1,0.306
+"Jim Haslett","LAR",2008,2008,1,12,2,10,0,0,1,1,1,0.167
+"Steve Spagnuolo","LAR",2009,2011,3,48,10,38,0,0,1,0,1,0.208
+"Jeff Fisher","LAR",2012,2016,5,77,31,45,1,0,1,0,1,0.409
+"John Fassel","LAR",2016,2016,1,3,0,3,0,0,1,1,1,0
+"Sean McVay","LAR",2017,2025,9,132,80,52,0,0,1,0,0,0.606
+"Norv Turner","LVR",2005,2005,1,16,4,12,0,0,2,0,1,0.25
+"Art Shell","LVR",2006,2006,1,16,2,14,0,1,1,0,1,0.125
+"Lane Kiffin","LVR",2007,2008,2,20,5,15,0,0,1,0,1,0.25
+"Tom Cable","LVR",2008,2010,3,44,17,27,0,0,1,1,1,0.386
+"Hue Jackson","LVR",2011,2011,1,16,8,8,0,1,1,0,1,0.5
+"Dennis Allen","LVR",2012,2014,3,36,8,28,0,0,1,0,1,0.222
+"Tony Sparano","LVR",2014,2014,1,12,3,9,0,0,1,1,1,0.25
+"Jack Del Rio","LVR",2015,2017,3,48,25,23,0,0,1,0,1,0.521
+"Jon Gruden","LVR",2018,2021,4,53,22,31,0,0,1,0,1,0.415
+"Rich Bisaccia","LVR",2021,2021,1,12,7,5,0,0,1,1,1,0.583
+"Josh McDaniels","LVR",2022,2023,2,25,9,16,0,0,1,0,1,0.36
+"Antonio Pierce","LVR",2023,2024,2,26,9,17,0,1,1,1,1,0.346
+"Pete Carroll","LVR",2025,2025,1,0,0,0,0,0,1,0,0,0
+"Nick Saban","MIA",2005,2006,2,32,15,17,0,0,1,0,1,0.469
+"Cam Cameron","MIA",2007,2007,1,16,1,15,0,0,1,0,1,0.062
+"Tony Sparano","MIA",2008,2011,4,61,29,32,0,0,1,0,1,0.475
+"Todd Bowles","MIA",2011,2011,1,3,2,1,0,1,1,1,1,0.667
+"Joe Philbin","MIA",2012,2015,4,52,24,28,0,0,1,0,1,0.462
+"Dan Campbell","MIA",2015,2015,1,12,5,7,0,0,1,1,1,0.417
+"Adam Gase","MIA",2016,2018,3,48,23,25,0,0,1,0,1,0.479
+"Brian Flores","MIA",2019,2021,3,49,24,25,0,1,1,0,1,0.49
+"Mike McDaniel","MIA",2022,2025,4,51,28,23,0,1,1,0,0,0.549
+"Mike Tice","MIN",2005,2005,1,16,9,7,0,0,2,0,1,0.562
+"Brad Childress","MIN",2006,2010,5,74,39,35,0,0,1,0,1,0.527
+"Leslie Frazier","MIN",2010,2013,4,54,21,32,1,1,1,1,1,0.398
+"Mike Zimmer","MIN",2014,2021,8,129,72,56,1,0,1,0,1,0.562
+"Kevin O'Connell","MIN",2022,2025,4,51,34,17,0,0,1,0,0,0.667
+"Jim Haslett","NOR",2005,2005,1,16,3,13,0,0,2,0,1,0.188
+"Sean Payton","NOR",2006,2021,16,241,152,89,0,0,1,0,1,0.631
+"Aaron Kromer","NOR",2012,2012,1,6,2,4,0,0,1,1,1,0.333
+"Joe Vitt","NOR",2012,2012,1,10,5,5,0,0,1,1,1,0.5
+"Dennis Allen","NOR",2022,2024,3,43,18,25,0,0,1,0,1,0.419
+"Darren Rizzi","NOR",2024,2024,1,8,3,5,0,0,1,1,1,0.375
+"Kellen Moore","NOR",2025,2025,1,0,0,0,0,0,1,0,0,0
+"Bill Belichick","NWE",2005,2023,19,307,213,94,0,0,2,0,1,0.694
+"Jerod Mayo","NWE",2024,2024,1,17,4,13,0,1,1,0,1,0.235
+"Mike Vrabel","NWE",2025,2025,1,0,0,0,0,0,1,0,0,0
+"Tom Coughlin","NYG",2005,2015,11,176,96,80,0,0,2,0,1,0.545
+"Ben McAdoo","NYG",2016,2017,2,28,13,15,0,0,1,0,1,0.464
+"Steve Spagnuolo","NYG",2017,2017,1,4,1,3,0,0,1,1,1,0.25
+"Pat Shurmur","NYG",2018,2019,2,32,9,23,0,0,1,0,1,0.281
+"Joe Judge","NYG",2020,2021,2,33,10,23,0,0,1,0,1,0.303
+"Brian Daboll","NYG",2022,2025,4,51,18,32,1,0,1,0,0,0.363
+"Herm Edwards","NYJ",2005,2005,1,16,4,12,0,1,2,0,1,0.25
+"Eric Mangini","NYJ",2006,2008,3,48,23,25,0,0,1,0,1,0.479
+"Rex Ryan","NYJ",2009,2014,6,96,46,50,0,0,1,0,1,0.479
+"Todd Bowles","NYJ",2015,2018,4,64,24,40,0,1,1,0,1,0.375
+"Adam Gase","NYJ",2019,2020,2,32,9,23,0,0,1,0,1,0.281
+"Robert Saleh","NYJ",2021,2024,4,56,20,36,0,1,1,0,1,0.357
+"Jeff Ulbrich","NYJ",2024,2024,1,12,3,9,0,0,1,1,1,0.25
+"Aaron Glenn","NYJ",2025,2025,1,0,0,0,0,0,1,0,0,0
+"Andy Reid","PHI",2005,2012,8,128,66,61,1,0,2,0,1,0.52
+"Chip Kelly","PHI",2013,2015,3,47,26,21,0,0,1,0,1,0.553
+"Pat Shurmur","PHI",2015,2015,1,1,1,0,0,0,1,1,1,1
+"Doug Pederson","PHI",2016,2020,5,80,42,37,1,0,1,0,1,0.531
+"Nick Sirianni","PHI",2021,2025,5,68,48,20,0,0,1,0,0,0.706
+"Bill Cowher","PIT",2005,2006,2,32,19,13,0,0,2,0,1,0.594
+"Mike Tomlin","PIT",2007,2025,19,292,183,107,2,1,1,0,0,0.63
+"Mike Holmgren","SEA",2005,2008,4,64,36,28,0,0,2,0,1,0.562
+"Jim Mora","SEA",2009,2009,1,16,5,11,0,0,1,0,1,0.312
+"Pete Carroll","SEA",2010,2023,14,227,137,89,1,0,1,0,1,0.606
+"Mike Macdonald","SEA",2024,2025,2,17,10,7,0,0,1,0,0,0.588
+"Mike Nolan","SFO",2005,2008,4,55,18,37,0,0,1,0,1,0.327
+"Mike Singletary","SFO",2008,2010,3,40,18,22,0,1,1,1,1,0.45
+"Jim Tomsula","SFO",2010,2015,6,17,6,11,0,0,1,0,1,0.353
+"Jim Harbaugh","SFO",2011,2014,4,64,44,19,1,0,1,0,1,0.695
+"Chip Kelly","SFO",2016,2016,1,16,2,14,0,0,1,0,1,0.125
+"Kyle Shanahan","SFO",2017,2025,9,132,70,62,0,0,1,0,0,0.53
+"Jon Gruden","TAM",2005,2008,4,64,33,31,0,0,2,0,1,0.516
+"Raheem Morris","TAM",2009,2011,3,48,17,31,0,1,1,0,1,0.354
+"Greg Schiano","TAM",2012,2013,2,32,11,21,0,0,1,0,1,0.344
+"Lovie Smith","TAM",2014,2015,2,32,8,24,0,1,1,0,1,0.25
+"Dirk Koetter","TAM",2016,2018,3,48,19,29,0,0,1,0,1,0.396
+"Bruce Arians","TAM",2019,2021,3,49,31,18,0,0,1,0,1,0.633
+"Todd Bowles","TAM",2022,2025,4,51,27,24,0,1,1,0,0,0.529
+"Jeff Fisher","TEN",2005,2010,6,96,49,47,0,0,2,0,1,0.51
+"Mike Munchak","TEN",2011,2013,3,48,22,26,0,0,1,0,1,0.458
+"Ken Whisenhunt","TEN",2014,2015,2,23,3,20,0,0,1,0,1,0.13
+"Mike Mularkey","TEN",2015,2017,3,41,20,21,0,0,1,1,1,0.488
+"Mike Vrabel","TEN",2018,2023,6,99,54,45,0,0,1,0,1,0.545
+"Brian Callahan","TEN",2024,2025,2,17,3,14,0,0,1,0,0,0.176
+"Joe Gibbs","WAS",2005,2007,3,48,24,24,0,0,2,0,1,0.5
+"Jim Zorn","WAS",2008,2009,2,32,12,20,0,0,1,0,1,0.375
+"Mike Shanahan","WAS",2010,2013,4,64,24,40,0,0,1,0,1,0.375
+"Jay Gruden","WAS",2014,2019,6,85,35,49,1,0,1,0,1,0.418
+"Bill Callahan","WAS",2019,2019,1,11,3,8,0,0,1,1,1,0.273
+"Ron Rivera","WAS",2020,2023,4,67,26,40,1,1,1,0,1,0.396
+"Dan Quinn","WAS",2024,2025,2,17,12,5,0,0,1,0,0,0.706
