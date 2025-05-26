@@ -6,3 +6,6 @@ The data was made in combination from season by season head coaching records pro
 
 # Outcomes
 Minority and White coaches length of tenure, rehiring rate for coaches who had previously held a head coaching position where all deemed to be not be signifcantly different than each other however winning percentage and hirning rates were deemed to signficantly different. White coaches won 6% more compared to minority coaches, and hiried disproportionately hire than minority coaches. Even with the Rooney rules implementation minority coaches were disproportionately hired compared to white coaches. 
+
+# How To Run
+Download the Coaches CSV file and run the Coaches Analysis script in your workspace
