@@ -5,107 +5,8 @@ library(dplyr)
 library(ggplot2)
 library(tidyr)
 
-
-coaches <-read.csv("coaches.csv")
-
-
-# In the past 20 years several NFL Teams have moved or updated their name
-# this just updates them to their current names in the NFL
-coaches <- coaches %>%
-  mutate(Tm = case_when(
-    Tm == "SDG" ~ "LAC",
-    Tm == "STL" ~ "LAR",
-    Tm == "OAK" ~ "LVR",
-    Tm == "JAC" ~ "JAX",
-    TRUE ~ Tm  # Keep other teams unchanged
-  ))
-
-head(coaches)
-
-# The data frame currently does not have a variable someone is a new head coach, for the season
-# We will begin by finding any head coaches who did not appear the previous season and mark them
-# as new coach
-
-coaches <- coaches %>%
-  arrange(Season) %>%
-  mutate(NewCoach = ifelse(duplicated(paste(Coach, Tm)), 2, 1)) 
-
-#This is all new cochaes for each season, some coachs have multiple tenures wit different
-#So they may appear mulitple times such as Mike Mccarthy former Packers and Cowboys Coach
-
-# However onoe issue that appeared is that all coaches in the 2005 season will appear as
-# first time hires, when only 3 new coaches were hired in the beginning of the 2005 season 
-# Nick Saban 	Romeo Crennel Mike Nolan
-
-coaches <- coaches %>%
-  arrange(Season) %>%  # Ensure order by season
-  mutate(NewCoach = case_when(
-    Season == 2005 & (Coach %in% c("Nick Saban", "Romeo Crennel", "Mike Nolan") | Interim == 1) ~ 1,
-    duplicated(paste(Coach, Tm)) ~ 2,  # Returning coach
-    TRUE ~ 1  # Default for actual new coaches
-  ))
-
-coaches_2005 <- coaches %>%
-  filter(Season == 2005 & (Coach %in% c("Nick Saban", "Romeo Crennel", "Mike Nolan") | Interim == 1))
-fix05 <-coaches %>%
-  filter(!(Season == 2005 & (Coach %in% c("Nick Saban", "Romeo Crennel", "Mike Nolan") | Interim == 1)))
-fix05 <- subset(fix05, Season==2005)
-fix05$NewCoach <- 2
-
-coaches <- coaches %>%
-  filter(Season != 2005)
-
-# Add back only the selected 2005 coaches
-
-coaches <- bind_rows(coaches, coaches_2005)
-coaches <- bind_rows(coaches, fix05)
-new_coaches_summary <- coaches %>%
-  filter(NewCoach == 1, Interim == 0) %>%  # Exclude interim coaches
-  group_by(Minority) %>%  # Group by minority status (1 = minority, 0 = white)
-  summarize(Count = n())
-
-
-# Now we need to see the length of tenure of these coaches, so we will group each coachs tenure
-# with a team, the amount of seasons they have been there, if the go to another these are seperate
-# events 
-coach_tenure <- coaches %>%
-  group_by(Coach, Tm) %>%
-  summarize(
-    Start_Season = min(Season),
-    End_Season = max(Season),
-    Tenure = End_Season - Start_Season + 1,
-    .groups = "drop"
-  ) %>%
-  arrange(Tm, Start_Season)
-
-
-#Now we get the total games coached, won, loss or tied in these past 20 years for each coaches tenure,
-coach_summary <- coaches %>%
-  group_by(Coach, Tm) %>%
-  summarize(
-    GAMES = sum(G, na.rm = TRUE),
-    WINS = sum(W, na.rm = TRUE),
-    LOSSES = sum(L, na.rm = TRUE),
-    TIE = sum(T, na.rm = TRUE),
-    Minority = first(Minority),   # Assuming it's consistent over tenure
-    NewCoach = min(NewCoach,  na.rm = TRUE),
-    Interim = max(Interim, na.rm = TRUE),
-    .groups = "drop"
-  )
-
-coach_tenure_summary <- coach_tenure %>%
-  left_join(coach_summary, by = c("Coach", "Tm"))
-
-# Updated to have newly hired coaches and coaches retained from the 2024 season are given a 0
-# Since they will be the coaches this upcoming season
-coach_tenure_summary <- coach_tenure_summary %>%
-  mutate(Fired = if_else(End_Season != 2025, 1, 0))
-
-#Adding in wining percentage for all coaches during their tenure
-coach_tenure_summary <- coach_tenure_summary %>%
-  mutate(WinPer = round((WINS + 0.5 * TIE) / GAMES, 3))
-#Fix N/A coaches who haven't coached yet
-coach_tenure_summary$WinPer[is.na(coach_tenure_summary$WinPer)] <- 0  
+# Read in File
+coaches <- read.csv("coaches.csv")
 
 #Now that the data frame is made, i want to observe only coaches who have at minimum coached 16 games
 #New coaches hired this year will not count as they have not coached any games with their new team
@@ -113,10 +14,10 @@ coach_tenure_summary$WinPer[is.na(coach_tenure_summary$WinPer)] <- 0
 #be unfair to include them What we are looking for is the the average win percentage of minority and 
 #white coaches significantly different, is this a reason for low amount of minorities
 
-coach_tenure_summary_min <- coach_tenure_summary %>% filter(GAMES > 15 & NewCoach==1)
+coaches_min <- coaches %>% filter(GAMES > 15 & NewCoach==1)
 
 #Summarize the difference in win percentage between white and minority coaches
-summarize_winper <- coach_tenure_summary_min %>%
+summarize_winper <- coaches_min %>%
   group_by(Minority) %>%
   summarize(
     Mean_WinPer = mean(WinPer, na.rm = TRUE),
@@ -127,7 +28,7 @@ summarize_winper <- coach_tenure_summary_min %>%
 
 #White coaches have a win percentage of 44%, while minority coaches have a win percentage of 38%
 #Next a t-test will be performed to see if this significantly different between the two
-t.test(WinPer ~ Minority, data = coach_tenure_summary_min)
+t.test(WinPer ~ Minority, data = coaches_min)
 
 # The t-test shows that minority coaches do have significantly different win percentage 
 # from white coaches according to the data we collected
@@ -135,7 +36,7 @@ t.test(WinPer ~ Minority, data = coach_tenure_summary_min)
 #Plotting this with a boxplot we can see that minority coaches and white coaches do have a different
 #wining percentage distribution
 
-ggplot(coach_tenure_summary_min, aes(x = factor(Minority), y = WinPer)) +
+ggplot(coaches_min, aes(x = factor(Minority), y = WinPer)) +
   geom_boxplot(fill = c("forestgreen", "orange")) +
   stat_summary(fun = min, geom = "point", shape = 18, size = 3, color = "black") +
   stat_summary(fun = max, geom = "point", shape = 18, size = 3, color = "black") +
@@ -151,7 +52,7 @@ ggplot(coach_tenure_summary_min, aes(x = factor(Minority), y = WinPer)) +
 # keeps those coaches who were retained vs filling a position, again any head coach who was hired
 # prior to 2005 are kept out
 
-filtered_coach_tenure <- coach_tenure_summary %>% filter(Interim==0 | 
+filtered_coach_tenure <- coaches %>% filter(Interim==0 | 
                                                                 (Interim==1 & Tenure>1))
 filtered_coach_tenure <- filtered_coach_tenure %>% filter(GAMES>0 & NewCoach==1)
 
@@ -200,7 +101,7 @@ ggplot(filtered_coach_tenure, aes(x = Tenure, fill = factor(Minority))) +
 # and more importantly do the owners have a bias in their hiring, again we will be looking only at new
 # coaches in the league, no coaches hired prior to the 2005 season
 # Again we only want non-interim coaches unless they are retained
-new_coaches <- coach_tenure_summary %>% filter(Interim==0 | 
+new_coaches <- coaches %>% filter(Interim==0 | 
                                                  (Interim==1 & Tenure>1))
 new_coaches <- new_coaches %>% filter(NewCoach==1)
 
@@ -260,7 +161,7 @@ chisq.test(x = observed_hires, p = c(0.7, 0.3))
 # their white counterparts. We will look at all coaches in past 20 years who have at least one  
 # tenures with two different teams
 
-rehired_coaches <- coach_tenure_summary %>% filter((Interim== 0) | (Interim==1 & Tenure > 1))
+rehired_coaches <- coaches %>% filter((Interim== 0) | (Interim==1 & Tenure > 1))
 
 rehired_coaches <- rehired_coaches %>%
   group_by(Coach) %>%
@@ -275,8 +176,8 @@ rehired_coaches_summary <- rehired_coaches %>%
   summarize(Count = n(), .groups = "drop")
 
 # Cont total amount of minority and non-minority coaches
-nrow(coach_tenure_summary %>% filter(Minority == 0))
-nrow(coach_tenure_summary %>% filter(Minority == 1))
+nrow(coaches %>% filter(Minority == 0))
+nrow(coaches %>% filter(Minority == 1))
 
 prop.test(x = c(28, 8), n = c(164, 43))
 # t-test shows that there is no significant difference in the hiring for white and minority
